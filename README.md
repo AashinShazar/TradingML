@@ -26,6 +26,17 @@ It will offer functionality such as:
   - select price or date bought in
   - evaluate portfolio performance based on a custom date range
   
+### Portfolio Optimizer 
+
+The idea of this project is to optimize a user's portfolio's performance.
+
+It's design is as follows:
+  - Provide a function for f(x) where x is the allocation of stocks 
+  - This function is to be maximized for the sharpe ratio
+  - Provide an initial guess for x 
+  - Call the optimizer function
+  - Testing
+
 ## References
 - https://quantra.quantinsti.com/course/introduction-to-machine-learning-for-trading
 - https://www.udacity.com/course/machine-learning-for-trading--ud501
