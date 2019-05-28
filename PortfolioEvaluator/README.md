@@ -23,3 +23,8 @@ The python requirements to run this notebook is outlined in the requirements.txt
 An additional requirement is the API key provided by Alpha Vantage. In the notebook, I've provided my API key for the time being for curious minds to play around with this project. 
 
 If you'd like your own API key (it's free), go ahead and visit: https://www.alphavantage.co/support/#api-key 
+
+## References
+- http://quantsoftware.gatech.edu/Assess_portfolio
+- https://www.investopedia.com/articles/07/sharpe_ratio.asp
+- https://www.investopedia.com/terms/c/cumulativereturn.asp
