@@ -1,16 +1,12 @@
 # Portfolio Optimizer
 
 ## Project Overview
-This project aims to optimize the allocation of funds within a portfolio selection. 
-
-This will be explored by leveraging the following techniques:
-- Sharpe Ratio
-- Monte Carlo Method
-- Volatlity
-- Efficient Fronter (Modern Portfolio Theory)
+This project aims to optimize the allocation of funds within a portfolio selection using the Efficient Frontier principle.
 
 ## To-Do
-- Actual project
+- Code explanations
+- Backtesting on real market data
+- Explore other optimizations  
 
 ## Requirements
 The python requirements to run this notebook is outlined in the requirements.txt file. 
