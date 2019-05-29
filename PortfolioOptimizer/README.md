@@ -1,12 +1,15 @@
 # Portfolio Optimizer
 
 ## Project Overview
-This project aims to optimize the allocation of funds within a portfolio selection using the Efficient Frontier principle.
+This project aims to optimize the allocation of funds within a portfolio. 
+
+Some of the optimizations it explores are:
+  - Efficient Frontier 
+  - Risk Parity
+  - Equal Risk
 
 ## To-Do
 - Code explanations
-- Backtesting on real market data
-- Explore other optimizations  
 
 ## Requirements
 The python requirements to run this notebook is outlined in the requirements.txt file. 
