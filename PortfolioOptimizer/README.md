@@ -21,4 +21,4 @@ If you'd like your own API key (it's free), go ahead and visit: https://www.quan
 ## References
 - https://medium.com/python-data/effient-frontier-in-python-34b0c3043314
 - http://www.bradfordlynch.com/blog/2015/12/04/InvestmentPortfolioOptimization.html
-
+- https://www.advisorperspectives.com/articles/2018/10/15/portfolio-optimization-simple-versus-optimal-methods
