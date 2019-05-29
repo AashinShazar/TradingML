@@ -6,6 +6,8 @@ This project aims to optimize the allocation of funds within a portfolio by expl
 ## To-Do
 - Code explanations
 - Exploring other optimizations
+- Compare against SPY
+- Compare Optimizations
 
 ## Requirements
 The python requirements to run this notebook is outlined in the requirements.txt file. 
