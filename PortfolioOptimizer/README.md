@@ -5,8 +5,9 @@ This project aims to optimize the allocation of funds within a portfolio.
 
 Some of the optimizations it explores are:
   - Efficient Frontier 
-  - Risk Parity
   - Equal Risk
+  - Maximum Diversification
+  - Minimum Variance
 
 ## To-Do
 - Code explanations
