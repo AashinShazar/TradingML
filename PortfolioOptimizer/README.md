@@ -6,7 +6,7 @@ This project aims to optimize the allocation of funds within a portfolio by expl
 ## To-Do
 - Code explanations
 - Exploring other optimizations
-- Compare against SPY
+- ~~Compare against SPY~~
 - Compare Optimizations
 
 ## Requirements
