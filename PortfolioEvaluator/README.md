@@ -13,8 +13,8 @@ It investigates and codes key metrics such as:
 
 ## To-Do
 - Establish dynamic start and end dates
-- Double check math
-- Tidy up charts
+- ~~Double check math~~
+- ~~Tidy up charts~~
 - Add cryptocurrency support
 
 ## Requirements
