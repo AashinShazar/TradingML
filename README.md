@@ -10,7 +10,7 @@ Below I've laid a loose roadmap consisiting of some projects and ideas I'd like 
 A project that investigates what metrics are necessary to evaluate a portfolio's performance.
 
 ### PortfolioOptimizer
-A project that optimizes the allocation of funds to maximimze the sharpe ratio.
+A project that optimizes the allocation of funds to demonstrate the Efficient Frontier principle. 
 
 ### MarketSimulator
 A project that simulates that market in regards to accepting trades and monitoring a chosen portfolio.
