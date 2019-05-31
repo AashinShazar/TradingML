@@ -13,7 +13,7 @@ A project that investigates what metrics are necessary to evaluate a portfolio's
 A project that optimizes the allocation of funds to demonstrate the Efficient Frontier principle. 
 
 ### MarketSimulator
-A project that simulates that market in regards to accepting trades and monitoring a chosen portfolio.
+A project that investigates how orders impact the market and to track and assess a portfolio's performance. 
 
 ### StrategyLearners
 A project that investigates the various machine learning techniques that can be used to optimize trading strategies. This will likely explore the following:
